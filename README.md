@@ -2,19 +2,7 @@
 
 CLI based projects for Elevvo Internship Task 1.
 
- Files in this Repo
-
- 1. expense_tracker.py
-To manage daily expenses.
-- Add expense (Food, Transport, Shopping, etc.)
-- View all expenses
-- View total spending
-
-How to run:
-python expense_tracker.py
-
- 2. inventory_system.py
-To manage shop / store stock.
+ Files in thi
 - Add new item
 - Check stock
 - View full inventory
